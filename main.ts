@@ -16,7 +16,7 @@ import { BPS, runBars, type BarsState, type OrderInput } from './vendor/makefun-
 const SYMBOL = 'CBBTC';
 const LOOKBACK = 240;
 const ENTRY_Z = 2.5;
-const EXIT_Z = 1.0;
+const EXIT_Z = 1.5;
 const STOP_BPS = 150n;
 const MAX_HOLD = 480;
 const MAX_SLIPPAGE_BPS = 100;
